@@ -1,14 +1,14 @@
 # Taller04
 
-## A. Representación gráfica y diseño de la solución de problemas con pseudocódigo aplicando estructuras lógicas condicionales.
+## Representación gráfica y diseño de la solución de problemas con pseudocódigo aplicando estructuras lógicas condicionales.
 
 * Leer detenidamente cada problemática propuesta.
 * Plantear el esquema de forma general / breve = ANÁLISIS.
 * Diseñar la solución formal en pseudocódigo (use algoritmos y/o PSeInt opcionalmente). Considere las reglas para su representación: Indentación, bloques de definición de variables/dominios y de control (entrada, proceso, salida), etc. 
 * Diseñar la solución en flujograma (use opcionalmente PSeInt, DiaUML, otros).
-* Realice y evidencie la prueba de escritorio, que confirme la funcionalidad/resultados correctos de su solución (puede usar papel, excel, word).
+* Realice y evidencie la prueba de escritorio, que confirme la funcionalidad/resultados correctos de su solución (puede usar papel, excel, word, etc.).
 
-### Listado de problemáticas
+### Listado de problemáticas:
 * Problema-1
 > Edad para Votar: Determinar si una persona es elegible para votar en función de su edad (mayor o igual a 18 años).
 * Problema-2
@@ -23,8 +23,8 @@
 > Categoría de Edad: Clasificar a una persona en una categoría de edad (niño, adolescente, adulto) en función de su edad.
 * Problema-7
 > Rango de Notas: Asignar una letra (A, B, C, D) a una calificación en función de su rango (A para 90-100, B para 80-89, etc.).
->* Problema-8
-Calculadora de IMC: Calcular el índice de masa corporal (IMC) de una persona y clasificarla en función de su valor (bajo peso, peso normal, sobrepeso, etc.). 
+Problema-8
+> Calculadora de IMC: Calcular el índice de masa corporal (IMC) de una persona y clasificarla en función de su valor (bajo peso, peso normal, sobrepeso, etc.). 
 * Problema-9
 > Ordenamiento de Tres Números: Dados tres números, ordenarlos en orden ascendente.
 
